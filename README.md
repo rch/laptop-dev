@@ -1,5 +1,10 @@
 # Minimal(-ish) Developer Environment
 
+## brew
+
+- [postgresql](https://wiki.postgresql.org/wiki/Homebrew)
+- [hyperkit](https://minikube.sigs.k8s.io/docs/drivers/hyperkit/)
+
 ## k8s
 
 - [minikube](https://search.nixos.org/packages?channel=22.05&show=minikube)
