@@ -2,6 +2,10 @@
 
 ## k8s
 
+- [minikube](https://search.nixos.org/packages?channel=22.05&show=minikube)
+- [kubectl](https://search.nixos.org/packages?channel=22.05&show=kubectl)
+- [kubernetes-helm](https://search.nixos.org/packages?channel=22.05&show=kubernetes-helm)
+- [kubetail](https://search.nixos.org/packages?channel=22.05&show=kubetail)
 - [knative](https://knative.dev/docs/install/operator/knative-with-operators/)
 - [kourier](https://developers.redhat.com/blog/2020/06/30/kourier-a-lightweight-knative-serving-ingress)
 
