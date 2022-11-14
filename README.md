@@ -5,6 +5,13 @@
 - [postgresql](https://wiki.postgresql.org/wiki/Homebrew)
 - [hyperkit](https://minikube.sigs.k8s.io/docs/drivers/hyperkit/)
 
+## krb5
+[krb5] (https://search.nixos.org/packages?channel=22.05&show=krb5)
+[python gssapi](https://search.nixos.org/packages?channel=22.05&show=python39Packages.gssapi)
+
+### config
+(MacOS)[.krb5-macos.md]
+
 ## k8s
 
 - [minikube](https://search.nixos.org/packages?channel=22.05&show=minikube)
