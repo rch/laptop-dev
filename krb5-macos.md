@@ -41,9 +41,9 @@ echo ComputerName LocalHostName HostName | xargs -n1 -t scutil --get
 [realms]
     $REALM = {
         kdc = $(hostname) 
-        database_name = /Users/rhill/.config/krb5/db/principal
+        database_name = $HOME/.config/krb5/db/principal
         admin_server = $(hostname)
-        admin_keytab = file:/Users/rhill/.config/krb5/conf/kadm5.keytab
+        admin_keytab = file:$HOME/.config/krb5/conf/kadm5.keytab
     }
     $NAME = {
         kdc = $(hostname)
